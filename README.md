@@ -28,8 +28,7 @@ https://vimeo.com/892983642?share=copy
 
 ### create type (combo box)
 - On Component Center -- コンポーネントの中央にジョイントを生成する
-- Evenly Interval -- コンポーネントを繋ぐライン上に等間隔にジョイントを生成する*  
-*等間隔になるようにジョイントを生成するのではなく、コンポーネントを繋ぐライン上を等分割した位置にジョイントを生成します
+- Evenly Interval -- コンポーネントを繋ぐラインを等分割した位置にジョイントを生成します
 
 ### root joint
 始点にジョイントを生成する場合はONにします
