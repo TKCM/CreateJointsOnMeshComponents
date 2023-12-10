@@ -12,6 +12,9 @@ cmds.loadPlugin( 'create_joints_on_mesh_components.py', quiet=True )
 CJOMCTool.run()
 ```
 
+## How to use
+https://vimeo.com/892983642?share=copy
+
 ## main UI
 ![image](https://github.com/TKCM/CreateJointsOnMeshComponents/assets/13941074/9ed910d8-cfad-4de6-980f-f0ee9725223b)
 
